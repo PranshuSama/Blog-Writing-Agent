@@ -1,0 +1,4 @@
+pydantic
+langgraph
+langchain-core
+langchain-groq
